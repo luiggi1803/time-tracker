@@ -10,7 +10,7 @@
         This is a simple Maven / Java web project.
     </description>
     <inceptionYear>2017</inceptionYear>
-    <url>http://taylor.training/</url>
+    <url>http://taylor.training/</url> 
 
     <properties>
         <spring.version>5.0.2.RELEASE</spring.version>
